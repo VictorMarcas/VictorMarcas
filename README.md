@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi, I'm Victor Marcas 👋 👨‍💻
+
+```js
+  export default {
+     name: 'Victor-Marcas',
+     data() {
+        return {
+          technologies: ['web'],
+          passions: ['web development', 'music'],
+          code: ['Javascript', 'HTML', 'CSS'],
+          tools: ['Vue', 'React', 'TailwindCSS', 'AlpineJS', 'Sass', 'Webpack']
+        }
+     }
+  }
+```
 
 <!--
 **VictorMarcas/VictorMarcas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
