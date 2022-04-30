@@ -1,4 +1,6 @@
-### Hi, I'm Victor Marcas 👋 👨‍💻
+## Hi 👋, I'm Victor Marcas
+A passionate frontend developer from Perú
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=victormarcas&label=Profile%20views&color=0e75b6&style=flat" alt="victormarcas" /> </p>
 
 ```js
   export default {
