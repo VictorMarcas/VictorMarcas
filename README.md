@@ -10,7 +10,7 @@ A passionate frontend developer from Perú
      data() {
         return {
           technologies: ['web'],
-          passions: ['web development', 'music'],
+          passions: ['web development', 'ux', 'ui', 'music'],
           code: ['Javascript', 'HTML', 'CSS'],
           tools: ['Vue', 'React', 'TailwindCSS', 'AlpineJS', 'Sass', 'Webpack']
         }
